@@ -1,12 +1,12 @@
-/* Codded by @Ravindu Manoj
+/* Codded by Danidu Dissanayaka
 
-Telegram: t.me/RavinduManoj
+Whatsapp: wa.me/94707924007
 Facebook: https://www.facebook.com/ravindu.manoj.79
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Whats bot - Ravindu Manoj
+Whats bot - Danidu Dissanayaka
 */
 
 let DataPack = require('sew-queen-pro');
