@@ -1,12 +1,12 @@
 /* 
 
-Sew Queen Whatsapp Bot                       
+Danidu Dissanayaka Whatsapp Bot                       
 
-Telegram: https://t.me/RavinduManoj
+Whatsapp: https://wa.me/94706924007
 Facebook: https://www.facebook.com/ravindu.manoj.79
 Licensed under the  GPL-3.0 License;
 
-Coded By Ravindu Manoj
+Coded By Danidu Dissanayaka 
 
 */ 
 let DataPack = require('sew-queen-pro');
