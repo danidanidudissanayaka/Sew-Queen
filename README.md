@@ -1,4 +1,4 @@
-<div align="center"><h1>❖❖❖❖❖   𝐒𝐄𝐖 𝐐𝐔𝐄𝐄𝐍   ❖❖❖❖❖</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://i.ibb.co/9Ngt7rH/c32a378c86f6.jpg" width="250" height="250"></a><h3>✬✬ Sew Queen Is World Best Whatsapp Bot Ever ✬✬</h3></div>
+<div align="center"><h1>❖❖❖❖❖  දනිදු දිසානායක  ❖❖❖❖❖</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://i.ibb.co/9Ngt7rH/c32a378c86f6.jpg" width="250" height="250"></a><h3>✬✬ Danidu Dissanayaka whatsapp bot Is World Best Whatsapp Bot Ever ✬✬</h3></div>
 
 
 ***
@@ -26,7 +26,7 @@
 
 
 ***
-<div align="center"><h1>✬✬ Sew Queen Is World Best Whatsapp Bot Ever ✬✬</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/1d9ff8a76d20d4d151780c68c59beeb68b318e88/media/ezgif.com-video-to-gif%20(1).gif" width="450"></a></div>
+<div align="center"><h1>✬✬ Danidu Dissanayaka whatsapp bot Is World Best Whatsapp Bot Ever ✬✬</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/1d9ff8a76d20d4d151780c68c59beeb68b318e88/media/ezgif.com-video-to-gif%20(1).gif" width="450"></a></div>
 
 ***
 > [Documentation](https://github.com/ravindu01manoj/Sew-Queen/wiki/Add-Your-Own-Cmd-For-Sew-Queen-Whatsapp-Bot)
@@ -36,7 +36,7 @@
 ***
 > Another Way To Get Qr ✏
 
-# You Can Get Qr Easily Using Another Sew Queen Bot
+# You Can Get Qr Easily Using Another Danidu Dissanayaka whatsapp Bot
 # Get Qr As Image To Use .getqr
 
 > termux code for qr✏
